@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Stocks</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="stocks_tab_text">Subscribed Stocks</string>
+    <string name="stock_tab_text">Search Stocks</string>
+    <string name="search_stock_cta">Search By Stock Ticker</string>
+    <string name="search_button_cta">Search</string>
+</resources>
